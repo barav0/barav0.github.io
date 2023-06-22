@@ -1,0 +1,71 @@
+body {
+    font-family: "Courier New", "Lucida Console";
+}
+
+h1 {
+    margin-left: 200px;
+    color: rgb(90, 245, 157);
+}
+
+h2 {
+    margin-left: 250px;
+    color: rgb(90, 245, 157);
+}
+
+p {
+    color: seagreen;
+    margin-left: 300px;
+    margin-right: 275px;
+}
+
+table {
+    border-style: inset;
+    border-color: seagreen;
+    width: 100%;
+}
+
+th {
+    color: rgb(90, 245, 157);
+    font-weight: bold;
+    border-bottom-style:solid;
+    border-bottom-color: seagreen;
+}
+
+td {
+    color: lightgoldenrodyellow;
+}
+
+.alive {
+    font-style: italic;
+    color: greenyellow;
+}
+
+.dead {
+    font-style: italic;
+    color: red;
+}
+
+#unknown {
+    font-style: italic;
+    color: indigo;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+li {
+    color: lightgoldenrodyellow;
+    margin-left: 300px;
+    margin-right: 275px;
+}
