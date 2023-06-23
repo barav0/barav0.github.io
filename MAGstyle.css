@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    margin: auto;
+    text-align: center;
     color: rgb(90, 245, 157);
     text-decoration: underline;
 }
