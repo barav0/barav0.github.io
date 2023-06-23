@@ -5,11 +5,15 @@ body {
 h1 {
     margin-left: 200px;
     color: rgb(90, 245, 157);
+    text-align: center;
+    text-decoration: underline;
 }
 
 h2 {
     margin-left: 250px;
     color: rgb(90, 245, 157);
+    text-align: center;
+    text-decoration: underline;
 }
 
 p {
