@@ -3,9 +3,8 @@ body {
 }
 
 h1 {
-    margin-left: 200px;
+    margin: auto;
     color: rgb(90, 245, 157);
-    text-align: center;
     text-decoration: underline;
 }
 
