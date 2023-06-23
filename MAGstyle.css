@@ -69,3 +69,7 @@ li {
     margin-left: 300px;
     margin-right: 275px;
 }
+
+ol {
+    type="disc";
+}
