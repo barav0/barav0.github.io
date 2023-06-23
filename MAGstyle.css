@@ -45,17 +45,20 @@ li {
 .alive {
     font-style: italic;
     color: greenyellow;
+    text-align: center;
 }
 
 .dead {
     font-style: italic;
     color: red;
+    text-align: center;
 }
 
 #unknown {
     font-style: italic;
-    color: indigo;
+    color: midnightblue;
     text-decoration: underline;
+    text-align: center;
 }
     
 .centerimg {
