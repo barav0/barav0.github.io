@@ -41,11 +41,6 @@ li {
     margin-right: 275px;
 }
 
-ol {
-    type="disc";
-}
-
-
 
 .alive {
     font-style: italic;
@@ -61,11 +56,6 @@ ol {
     font-style: italic;
     color: indigo;
     text-decoration: underline;
-}
-
-#bold {
-    font-weight: bold;
-    
 }
     
 .centerimg {
