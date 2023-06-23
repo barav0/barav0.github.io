@@ -35,6 +35,18 @@ td {
     color: lightgoldenrodyellow;
 }
 
+li {
+    color: lightgoldenrodyellow;
+    margin-left: 300px;
+    margin-right: 275px;
+}
+
+ol {
+    type="disc";
+}
+
+
+
 .alive {
     font-style: italic;
     color: greenyellow;
@@ -48,8 +60,14 @@ td {
 #unknown {
     font-style: italic;
     color: indigo;
+    text-decoration: underline;
 }
 
+#bold {
+    font-weight: bold;
+    
+}
+    
 .centerimg {
     display: block;
     margin-left: auto;
@@ -64,12 +82,3 @@ td {
     width: 35%;
 }
 
-li {
-    color: lightgoldenrodyellow;
-    margin-left: 300px;
-    margin-right: 275px;
-}
-
-ol {
-    type="disc";
-}
